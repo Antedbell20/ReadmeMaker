@@ -1,4 +1,4 @@
-# hi
+# READMEMaker
         
 ## Table of Contents
         
@@ -6,22 +6,23 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Github](#Github)
         
 ## Description:
-yeah
+This is an application that will generate a readme based off of input from the user.
         
 ## Installation
-me
+All you need is the code, a terminal, and access to node js.
         
 ## Usage
-        
-too
+This application makes it fast and easy to generate a proper readme with a functional table of contents.
+
+## Deployment video
+
         
 ## License
 MIT License
 Copyright (c) 2023
         
-## Github
+## About The Authors
         
-- [GitHub](https://github.com/dont)
+- [GitHub](https://github.com/antedbell20)

@@ -73,7 +73,7 @@ Copyright (c) 2023
         
 - [GitHub](https://github.com/${response.github})`
 
-    fs.writeFile("README.md", readMe, (err) =>
+    fs.writeFile("sampleREADME.md", readMe, (err) =>
     err ? console.error(err) : console.log('success')
     );
 })
