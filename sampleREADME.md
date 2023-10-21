@@ -1,4 +1,4 @@
-# hello
+# myProject
         
 ## Table of Contents
         
@@ -8,19 +8,19 @@
 * [License](#license)
         
 ## Description:
-i
+This is your description
         
 ## Installation
-am
+This is the installation instructions
         
 ## Usage
         
-tired
+this is the usage information
         
 ## License
-to License
+MIT License
 Copyright (c) 2023
         
 ## About The Authors
         
-- [GitHub](https://github.com/want)
+- [GitHub](https://github.com/antedbell20)
